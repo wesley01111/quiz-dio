@@ -1,55 +1,53 @@
 {
-  "title":"Você seria um heroi ou vilão ?",
+  "title":" Qual animal você seria?",
   "questions":[
     {
       "id":1,
-      "question": "Qual super poder você escolheria ?",
+      "question": "Qual é sua atividade favorita em um fim de semana?",
       "options":[
-        {"id": 1, "name":"Raios-Lasers", "alias":"A"},
-        {"id": 2, "name":"Voar", "alias":"B"},
-        {"id": 3, "name":"Explodir coisas", "alias":"A"},
-        {"id": 4, "name":"Curar feridas", "alias":"B"},
-        {"id": 5, "name":"Soltar fogo pelas mãos", "alias":"A"}
+        {"id": 1, "name":" Ir à praia", "alias":"A"},
+        {"id": 2, "name":" Ficar em casa assistindo filmes", "alias":"B"},
+        {"id": 3, "name":" Praticar esportes ao ar livr", "alias":"C"},
+        {"id": 4, "name":" Visitar um museu ou exposição", "alias":"D"},
+        {"id": 5, "name":"ir a academia", "alias":"A"}
       ]
     },
     {
       "id":2,
-      "question": "Quem você salvaria primeiro ?",
+      "question": "O que você prefere comer em um jantar ?",
       "options":[
-        {"id": 1, "name":"Crianças", "alias":"A"},
-        {"id": 2, "name":"Idosos", "alias":"A"},
-        {"id": 3, "name":"Não saberia escolher", "alias":"B"}
+        {"id": 1, "name": "Sushi", "alias":"A"},
+        {"id": 2, "name":" Pizza", "alias":"B"},
+        {"id": 2, "name":"  Salada", "alias":"D"},
+        {"id": 3, "name":" Churrasco", "alias":"C"}
       ]
     },
     {
       "id":3,
-      "question": "Qual a sua maior preocupação ao enfretar outro super ser ?",
+      "question": "Qual é o seu destino de viagem dos sonhos?",
       "options":[
-        {"id": 1, "name":"Não destruir prédios", "alias":"B"},
-        {"id": 2, "name":"Socar a cara do inimigo", "alias":"A"},
-        {"id": 3, "name":"Não sujar meu traje", "alias":"A"},
-        {"id": 4, "name":"Não deixar ninguém se ferir", "alias":"B"}
+        {"id": 1, "name":" Ilhas Maldivas", "alias":"A"},
+        {"id": 2, "name":" Paris, França", "alias":"B"},
+        {"id": 3, "name":"Safari na África", "alias":"C"},
+        {"id": 4, "name":" Caminhadas pelas montanhas do Himalaia", "alias":"D"}
       ]
     },
     {
       "id":4,
-      "question": "Qual o seu maior foco ?",
+      "question": "Como você se descreveria em uma palavra?",
       "options":[
-        {"id": 1, "name":"Ficar rico com poderes", "alias":"A"},
-        {"id": 2, "name":"Salvar a cidade", "alias":"B"}
-      ]
-    },
-    {
-      "id":5,
-      "question": "Qual o seu apelido de super ser ?",
-      "options":[
-        {"id": 1, "name":"O Terrivel", "alias":"A"},
-        {"id": 2, "name":"Amigo da vizinhança", "alias":"B"}
+        {"id": 1, "name":" Aventureiro", "alias":"A"},
+        {"id": 2, "name":" Caseiro", "alias":"B"},
+        {"id": 2, "name":"  Energetico", "alias":"C"},
+        {"id": 2, "name":"  Reflexivo", "alias":"D"}
       ]
     }
+    
   ],
   "results":{
-    "A": "Você muito provavelmente seria um super vilão!",
-    "B": "Você muito provavelmente seria um super Herói!"
+    "A": " Você seria um Golfinho! Inteligente, ágil e sociável.",
+    "B": " Você seria um Gato! Independente, curioso e carismático.",
+    "C": " Você seria um Cão! Leal, enérgico e amigável.",
+    "D": "Você seria um Panda! Calmo, reservado e observador."
   }
 }

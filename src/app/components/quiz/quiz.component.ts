@@ -1,5 +1,5 @@
-import { Component, Input, OnInit, input } from '@angular/core';
-import { quizz_questions } from "../../../assets/data/quizz_questions.json";
+import { Component, Input, OnInit } from '@angular/core';
+import  quizz_questions  from "../../../assets/data/quizz_questions.json";
 
 @Component({
   selector: 'app-quiz',
